@@ -1,0 +1,2 @@
+module aritematic_project {
+}
